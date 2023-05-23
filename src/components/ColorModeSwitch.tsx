@@ -7,6 +7,6 @@ const ColorModeSwitch = () => {
           <Text whiteSpace='nowrap'>Dark Mode</Text>
     </HStack>
   )
-}
+} 
 
 export default ColorModeSwitch
